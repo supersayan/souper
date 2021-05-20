@@ -2,4 +2,4 @@
 layout: default
 ---
 
-I'm Sayan, a student at UNC.
+I'm Sayan, a computer science student at UNC.
